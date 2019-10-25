@@ -1,6 +1,6 @@
 # dfab-web1<html>
 	<head>
-		<title>Kun Teng's Website</title>
+		<title>My Website</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 		</style>
 	</head> 
